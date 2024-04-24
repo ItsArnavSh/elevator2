@@ -949,7 +949,7 @@ void plotArt(vector<vector<passenger>> waiting,vector<int> lifts,int maxFloor,ve
     clearScreen();
 }
 void clearScreen() {
-    system("clear");
+    system("cls");
 }
 void displayGuide() {
     int choice;
